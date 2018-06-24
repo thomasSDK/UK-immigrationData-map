@@ -18,16 +18,16 @@ function initialise() {
             }
         }
     });
-	// slider option to control population circle Marker radius not yet working
+	// slider option to control population circle Marker radius
 	var slider = L.control.range({
-    position: 'topright',
-    min: 1,
-    max: 100,
-    value: 50,
-    step: 1,
-    orient: 'vertical',
-    iconClass: 'leaflet-range-icon',
-    icon: true
+    	    position: 'topright',
+   	    min: 1,
+	    max: 100,
+	    value: 50,
+	    step: 1,
+	    orient: 'vertical',
+	    iconClass: 'leaflet-range-icon',
+	    icon: true
 	});
 
 	// create the tile layer with correct attribution
