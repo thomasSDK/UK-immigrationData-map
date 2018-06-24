@@ -1,0 +1,248 @@
+ISO_code,Country_check,Political region,Work,Study,Family,Other 
+AF,Afghanistan,0,65,135,1550,10300
+AL,Albania,0,110,365,290,18000
+DZ,Algeria,0,210,620,320,27000
+AS,American Samoa,0,0,0,0,15
+AD,Andorra,0,0,35,0,700
+AO,Angola,0,60,400,20,6750
+AI,Anguilla (British),5,0,0,0,0
+AG,Antigua and Barbuda,0,5,25,10,2540
+AR,Argentina,0,1400,1320,70,56000
+AM,Armenia,0,45,175,10,2800
+AW,Aruba,0,0,5,0,65
+AU,Australia,0,22300,2610,975,1080000
+AT,Austria,1,0,0,0,0
+AZ,Azerbaijan,0,160,555,45,8670
+BS,"Bahamas, The",0,20,85,5,3100
+BH,Bahrain,0,85,805,10,21700
+BD,Bangladesh,0,1660,4240,2890,45800
+BB,Barbados,0,95,170,45,12200
+BY,Belarus,0,225,535,90,15900
+BE,Belgium,1,0,0,0,0
+BZ,Belize,0,10,20,5,1310
+BJ,Benin,0,*,35,5,1020
+BM,Bermuda (British),5,0,*,0,130
+BT,Bhutan,0,*,15,5,130
+BO,Bolivia,0,60,180,40,6190
+BES,"Bonaire, Sint Eustatius and Saba",0,0,0,0,0
+BA,Bosnia and Herzegovina,0,75,190,35,6740
+BW,Botswana,0,100,425,25,4630
+BR,Brazil,0,1550,11400,690,226000
+BOC,British overseas citizens,0,15,120,5,5900
+BN,Brunei,0,130,1100,5,9340
+BG,Bulgaria,3,0,0,0,0
+BF,Burkina,0,*,35,0,365
+MM,Burma,0,95,345,55,3100
+BI,Burundi,0,*,15,20,700
+KH,Cambodia,0,15,50,25,745
+CM,Cameroon,0,110,330,80,9130
+CA,Canada,0,7440,6440,640,1000000
+CV,Cape Verde,0,5,20,0,320
+KY,Cayman Islands (British),5,0,0,0,5
+CF,Central African Republic,0,*,30,*,80
+TD,Chad,0,*,25,10,215
+CL,Chile,0,210,1440,45,27500
+CN,China,0,4900,33500,1160,261000
+CX,Christmas Island,0,0,0,0,0
+CC,Cocos (Keeling) Islands,0,0,0,0,15
+CO,Colombia,0,430,5510,290,36600
+KM,Comoros,0,0,*,*,145
+CG,Congo,0,20,95,85,4540
+CD,Congo (Democratic Republic),0,20,30,175,2250
+CK,Cook Islands,0,0,*,0,0
+CR,Costa Rica,0,25,70,10,5520
+HR,Croatia,4,210,1060,45,53500
+CU,Cuba,0,250,60,95,3760
+CW,Curacao,0,0,0,0,0
+CY,Cyprus,4,0,0,0,0
+TRNC,Cyprus (Northern part of),0,5,15,5,760
+CZ,Czech Republic,2,0,0,0,0
+DK,Denmark,1,0,0,0,0
+DJ,Djibouti,0,*,*,5,195
+DM,Dominica,0,15,15,15,1360
+DO,Dominican Republic,0,30,65,70,2300
+TL,East Timor,0,0,*,0,40
+EC,Ecuador,0,45,425,75,6040
+EG,Egypt,0,1120,1330,265,50400
+SV,El Salvador,0,10,20,5,2050
+GQ,Equatorial Guinea,0,5,40,0,240
+ER,Eritrea,0,170,10,120,1480
+EE,Estonia,2,0,0,0,0
+ET,Ethiopia,0,340,145,330,5900
+FK,Falkland Islands (British),5,*,0,0,*
+FO,Faroe Islands,0,0,*,0,270
+FJ,Fiji,0,35,30,90,3570
+FI,Finland,1,0,0,0,0
+SFRY,Former Yugoslavia,0,45,765,5,21200
+FR,France,1,0,0,0,0
+GF,French Guiana,0,0,*,0,25
+PF,French Polynesia,0,0,0,0,0
+GA,Gabon,0,20,30,*,750
+GM,"Gambia, The",0,75,570,330,8940
+GE,Georgia,0,115,775,40,7830
+DE,Germany,1,0,0,0,0
+GH,Ghana,0,1050,1140,735,57600
+GI,Gibraltar (British),5,0,0,0,15
+GR,Greece,1,0,0,0,0
+GL,Greenland,0,0,0,0,10
+GD,Grenada,0,25,45,30,2920
+GP,Guadeloupe,0,0,0,0,0
+GU,Guam,0,0,0,*,5
+GT,Guatemala,0,25,80,10,3300
+GN,Guinea,0,35,55,35,1460
+GW,Guinea-Bissau,0,0,10,5,215
+GY,Guyana,0,65,65,55,4240
+HT,Haiti,0,5,10,5,430
+HM,Heard Island and McDonald Islands,0,0,0,0,0
+HN,Honduras,0,15,15,5,1970
+HK,Hong Kong,0,505,6450,165,111000
+HU,Hungary,2,0,0,0,0
+IS,Iceland,0,0,0,0,0
+IN,India,0,42900,30800,6200,828000
+ID,Indonesia,0,1660,1010,125,25100
+IR,Iran,0,615,2850,405,55400
+IQ,Iraq,0,140,855,1160,10100
+IE,Ireland,1,0,0,0,0
+IL,Israel,0,745,1290,145,174000
+IT,Italy,1,0,0,0,0
+CI,Ivory Coast,0,60,105,25,3710
+JM,Jamaica,0,680,215,830,21200
+JP,Japan,0,4590,13800,450,484000
+JO,Jordan,0,185,1130,75,23000
+KZ,Kazakhstan,0,285,3830,60,20400
+KE,Kenya,0,585,1160,515,43700
+KI,Kiribati,0,0,0,*,185
+KP,Korea (North),0,0,5,0,295
+KR,Korea (South),0,1050,11300,265,230000
+XK,Kosovo,0,5,60,120,3600
+KW,Kuwait,0,185,1710,15,68600
+KG,Kyrgyzstan,0,20,190,15,2000
+LA,Laos,0,0,5,10,225
+LV,Latvia,2,0,0,0,0
+LB,Lebanon,0,285,495,105,26600
+LS,Lesotho,0,45,15,*,855
+LR,Liberia,0,10,20,15,1040
+LY,Libya,0,140,6280,75,17200
+LI,Liechtenstein,0,0,0,0,0
+LT,Lithuania,2,0,0,0,0
+LU,Luxembourg,1,0,0,0,0
+MO,Macau,0,5,115,5,1110
+MK,Macedonia,0,90,290,45,5670
+MG,Madagascar,0,15,35,*,650
+MW,Malawi,0,120,380,40,4670
+MY,Malaysia,0,1980,7470,285,178000
+MV,Maldives,0,15,95,5,1510
+ML,Mali,0,55,35,*,815
+MT,Malta,4,0,0,0,0
+MH,Marshall Islands,0,*,5,0,25
+MQ,Martinique,0,0,0,0,*
+MR,Mauritania,0,5,35,0,2780
+MU,Mauritius,0,350,1060,320,36700
+YT,Mayotte,0,*,5,0,20
+MX,Mexico,0,535,3460,130,110000
+FM,Micronesia,0,0,0,0,25
+MD,Moldova,0,225,130,20,3690
+MC,Monaco,0,5,20,0,1190
+MN,Mongolia,0,30,365,20,3260
+ME,Montenegro,0,10,210,*,1080
+MS,Montserrat (British),5,0,0,0,40
+MA,Morocco,0,335,620,370,23900
+MZ,Mozambique,0,45,35,5,1110
+NA,Namibia,0,90,45,20,4210
+NR,Nauru,0,0,0,0,85
+NP,Nepal,0,645,825,2840,22100
+NL,Netherlands,1,0,0,0,0
+AN,Netherlands Antilles,0,0,0,0,0
+NC,New Caledonia,0,0,0,0,30
+NZ,New Zealand,0,7120,490,475,297000
+NI,Nicaragua,0,10,15,10,1180
+NE,Niger,0,20,15,*,540
+NG,Nigeria,0,2240,12700,1940,288000
+NU,Niue,0,0,0,0,5
+NF,Norfolk Island,0,0,0,0,0
+MP,Northern Mariana Islands,0,0,0,0,0
+NO,Norway,0,0,0,0,0
+PS,Occupied Palestinian Territories,0,45,205,15,2340
+OM,Oman,0,75,1670,10,14000
+XXX,Other and unknown,0,80,210,130,11800
+PK,Pakistan,0,2980,9710,8010,222000
+PW,Palau,0,0,0,0,50
+PA,Panama,0,10,150,10,3130
+PG,Papua New Guinea,0,5,35,5,540
+PY,Paraguay,0,20,35,10,1810
+PE,Peru,0,95,415,105,10200
+PH,Philippines,0,6450,5680,1870,104000
+PN,Pitcairn Islands (British),5,0,0,0,10
+PL,Poland,2,0,0,0,0
+PT,Portugal,1,0,0,0,0
+PR,Puerto Rico,0,0,0,0,5
+QA,Qatar,0,90,1440,5,30100
+XXB,Refugee,0,15,105,25,27715
+RE,Reunion,0,0,20,0,20
+RO,Romania,3,0,0,0,0
+RU,Russia,0,3710,14600,640,231000
+RW,Rwanda,0,15,95,25,1280
+WS,Samoa,0,10,0,*,430
+SM,San Marino,0,0,15,0,475
+ST,Sao Tome and Principe,0,*,5,*,140
+SA,Saudi Arabia,0,755,16600,30,96400
+SN,Senegal,0,100,190,30,3270
+RS,Serbia,0,235,620,85,9660
+FRY,Serbia and Montenegro,0,0,0,0,0
+SC,Seychelles,0,40,50,15,3630
+SL,Sierra Leone,0,60,180,165,9530
+SG,Singapore,0,600,1860,65,87100
+SK,Slovakia,2,0,0,0,0
+SI,Slovenia,2,0,0,0,0
+SB,Solomon Islands,0,10,10,0,230
+SO,Somalia,0,*,15,815,2170
+ZA,South Africa,0,13100,995,1750,376000
+GS,South Georgia and South Sandwich Islands,0,0,0,0,0
+ES,Spain,1,0,0,0,0
+LK,Sri Lanka,0,1640,3450,1040,55500
+SH,St. Helena (British),5,*,*,0,5
+KN,St. Kitts and Nevis,0,10,10,5,855
+LC,St. Lucia,0,45,90,50,4380
+SX,St. Maarten (Dutch Part),0,0,0,0,0
+MF,St. Martin (French Part),0,0,0,0,0
+PM,St. Pierre and Miquelon,0,0,0,0,20
+VC,St. Vincent and the Grenadines,0,40,40,25,2870
+XXA,Stateless,0,*,25,5,1350
+SD,Sudan,0,260,410,110,11100
+SS,Sudan (South),0,0,0,0,0
+SR,Surinam,0,5,5,*,280
+SJ,Svalbard and Jan Mayen,0,15,40,0,260
+SZ,Swaziland,0,45,15,5,1070
+SE,Sweden,1,0,0,0,0
+CH,Switzerland,0,0,0,0,0
+SY,Syria,0,140,750,90,11200
+TW,Taiwan,0,315,5950,95,45600
+TJ,Tajikistan,0,10,65,5,620
+TZ,Tanzania,0,170,1090,170,11800
+TH,Thailand,0,810,5220,2140,75200
+TG,Togo,0,5,15,20,950
+TK,Tokelau,0,0,0,0,0
+TO,Tonga,0,10,5,*,450
+TT,Trinidad and Tobago,0,410,500,90,29900
+TN,Tunisia,0,125,300,230,10300
+TR,Turkey,0,1790,11000,1260,158000
+TM,Turkmenistan,0,30,185,15,2260
+TC,Turks and Caicos Islands (British),5,0,*,0,25
+TV,Tuvalu,0,0,*,0,70
+UG,Uganda,0,295,690,205,19400
+UA,Ukraine,0,1070,2550,385,64500
+AE,United Arab Emirates,0,160,1990,20,51000
+US,United States,0,31200,96500,2450,3580000
+UY,Uruguay,0,40,135,5,5780
+UZ,Uzbekistan,0,70,770,30,4990
+VU,Vanuatu,0,0,0,*,70
+VA,Vatican City,0,5,0,0,55
+VE,Venezuela,0,270,1360,50,35700
+VN,Vietnam,0,200,1980,130,11500
+VG,Virgin Islands (British),5,0,0,0,20
+VI,Virgin Islands (US),0,0,10,0,15
+WF,Wallis and Futuna,0,*,5,5,65
+EH,Western Sahara,0,0,0,0,0
+YE,Yemen,0,85,370,150,4180
+ZM,Zambia,0,285,485,75,11400
+ZW,Zimbabwe,0,865,430,430,34000
