@@ -1,7 +1,7 @@
 <?php
 
 // THIS MUST BE REPLACED WITH YOUR OWN USERNAME
-$DB_USERNAME = "uczctsd";
+$DB_USERNAME = "";
 
 // Open a connection to the database
  
