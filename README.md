@@ -25,7 +25,7 @@ Finally the circleMarker was chosen as the leaflet marker because it has a radiu
 
 Final Notes
 
-The dynamic nature of the data visualisation presentation was designed to be interactive in a full scale zoom. Further improvements that are considered are:
+Due to dynamic nature of the data visualisation presentation was designed to be interactive in a full scale zoom. Further improvements that are considered are:
   1) To return only those countries within the view bounds of the map and add a search functionality for specific countries. 
   2) To be able to set bounds on the query so that users can search for immigration numbers of a specific range.
   3) The statistics of entrants from the EU were not included in the Data and it would be a good addition to find a source for those          numbers and add this data to the map. 
