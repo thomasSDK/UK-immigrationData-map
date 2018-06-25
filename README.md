@@ -23,6 +23,11 @@ When this is changed the script will automatically cycle through the new data an
 
 Finally the circleMarker was chosen as the leaflet marker because it has a radius that can be tied to the value of the number of entrants from each country in an array and it is not affected by “projection distortion” like circle. A slider is included in order to directly change the radius of these circles which is useful when zooming into countries to gain an in-depth visualisation of the changing number of entrants of a smaller number.
 
-Conclusion
+Final Notes
 
-Due to the temporal nature of this project it took longer than anticipated to correctly understand and implement the time. Dimension functionality of this leaflet plugin. Also due the dynamic nature of the data visualisation presentation is located purely on the map which was designed to interactive in a full scale zoom. With more time it would be useful to return only those countries within the view bounds of the map and add a search functionality. The statistics of entrants were not included in the Data and it would be a good addition to find a source for those numbers and add that to the map. It was interesting to see the development of the entrant numbers and types to the UK through the years and it would be interesting to connect these rises and falls to a wider context of political events. Finally a way to visualise the amount of non-State persons such as refugees is a needed addition to the site.
+The dynamic nature of the data visualisation presentation was designed to be interactive in a full scale zoom. Further improvements that are considered are:
+  1) To return only those countries within the view bounds of the map and add a search functionality for specific countries. 
+  2) To be able to set bounds on the query so that users can search for immigration numbers of a specific range.
+  3) The statistics of entrants from the EU were not included in the Data and it would be a good addition to find a source for those          numbers and add this data to the map. 
+  4) It was interesting to see the development of the entrant numbers and types to the UK through the years and it would be useful to        design a displey that connects these rises and falls to a wider context of political events. 
+  5) Crucially a way to visualise the amount of non-State persons, such as refugees, is a needed addition to the site.
