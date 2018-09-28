@@ -19,7 +19,7 @@ The Method
 
 This project was designed to be easily updatable with new data releases from the home office on future years. The data simply needs to be cleaned and then uploaded into the PostSQL database and then only one variable, $endyear, needs to be changed.
 
-When this is changed the script will automatically cycle through the new data and create a leaflet layerGroup() containing the data from the new year and categories being queried. At present the four variables, work, study, family, other and their sum can be visualised on the map. Other is a vague category is not fully explained in the notes that accompany the dataset so a neutral icon is used to display this category and it is called visitors in the may key in order to avoid the slightly sinister tone that ‘other’ can carry.
+When this is changed the script will automatically cycle through the new data and create a leaflet layerGroup() containing the data from the new year and categories being queried. At present the four variables, work, study, family, other and their sum can be visualised on the map. Other is a vague category is not fully explained in the notes that accompany the dataset so a neutral icon is used to display this category and it is called visitors in the map key in order to avoid the slightly sinister tone that ‘other’ can carry.
 
 Finally the circleMarker was chosen as the leaflet marker because it has a radius that can be tied to the value of the number of entrants from each country in an array and it is not affected by “projection distortion” like circle. A slider is included in order to directly change the radius of these circles which is useful when zooming into countries to gain an in-depth visualisation of the changing number of entrants of a smaller number.
 
