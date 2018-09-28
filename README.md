@@ -17,7 +17,7 @@ A separate reference table was then created with the longitude and latitude of e
 
 The Method
 
-This project was designed to be easily updatable with new data releases from the home office on future years. The data simply needs to be cleaned and then uploaded into the sql database and then only one variable, $startyear, needs to be changed.
+This project was designed to be easily updatable with new data releases from the home office on future years. The data simply needs to be cleaned and then uploaded into the PostSQL database and then only one variable, $startyear, needs to be changed.
 
 When this is changed the script will automatically cycle through the new data and create a leaflet layerGroup() containing the data from the new year and categories being queried. At present the four variables, work, study, family, other and their sum can be visualised on the map. Other is a vague category is not fully explained in the notes that accompany the dataset so a neutral icon is used to display this category and it is called visitors in the may key in order to avoid the slightly sinister tone that ‘other’ can carry.
 
