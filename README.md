@@ -29,5 +29,5 @@ Due to dynamic nature of the data visualisation presentation was designed to be 
   1) To return only those countries within the view bounds of the map and add a search functionality for specific countries. 
   2) To be able to set bounds on the query so that users can search for immigration numbers of a specific range.
   3) The statistics of entrants from the EU were not included in the Data and it would be a good addition to find a source for those          numbers and add this data to the map. 
-  4) It was interesting to see the development of the entrant numbers and types to the UK through the years and it would be useful to        design a displey that connects these rises and falls to a wider context of political events. 
+  4) It was interesting to see the development of the entrant numbers and types to the UK through the years and it would be useful to        design a display that connects these rises and falls to a wider context of political events. 
   5) Crucially a way to visualise the amount of non-State persons, such as refugees, is a needed addition to the site.
