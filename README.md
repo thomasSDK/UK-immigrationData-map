@@ -1,5 +1,5 @@
 # UK-immigrationData-map
-A geo-temporal animated mapping of the United Kingdom’s Home Office Immigration Statistics from the years 2004 to 2016
+A geo-temporal animated mapping of the United Kingdom’s Home Office Immigration Statistics from the years 2004 to 2016 designed to easily incorporate further years as the data is released. 
 
 Introduction
 
