@@ -83,7 +83,7 @@ function initialise() {
 				var immigrationMarker = L.circleMarker(
 					[(window["data" + i])[item].latitude,(window["data" + i])[item].longitude], 
 						{
-							// this calulates the raidus of the circleMarker when the entrant number is considered as the area using the formula r=√A/π 
+							// this calulates the radius of the circleMarker when the entrant number is considered as the area using the formula r=√A/π 
 							radius: (Math.sqrt((window["data" + i])[item].total)/Math.PI)/radius,
 						}
 				).addTo(window["data" + i + "_layer"]);
