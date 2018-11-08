@@ -22,8 +22,8 @@ function initialise() {
 	var slider = L.control.range({
     	    position: 'topright',
    	    min: 1,
-	    max: 100,
-	    value: 50,
+	    max: 1000,
+	    value: 500,
 	    step: 1,
 	    orient: 'vertical',
 	    iconClass: 'leaflet-range-icon',
@@ -59,14 +59,16 @@ function initialise() {
 	
 	// this sets the initial radius of the circleMarkers when they are created to allow for improved visibility of changing entrant groups
 	// to be replaced by the slider functionality
-	if  (totalEntrants < 25000) 
-	radius = 25;
-	else if (totalEntrants < 180000) 
-	radius = 100;
-	else if (totalEntrants < 480000)
-	radius =500;
+	radius = 1;
+	
+	/*if  (totalEntrants < 25) 
+	radius = 2;
+	else if (totalEntrants < 180) 
+	radius = 5;
+	else if (totalEntrants < 480)
+	radius =5;
 	else 
-	radius = 10000;
+	radius = 10;*/
 		
 	// this function runs when the map is first loaded to create the layer group of each year
 	// the data array's for the different years have been imported in a separate <script> include
