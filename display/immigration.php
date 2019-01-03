@@ -79,13 +79,13 @@
 		  <div class='legend-title'>Legend</div>
 		  <div class='legend-scale'>
   			<ul class='legend-labels'>
-    		<li><img src="images/fullscreen.svg"><span>Make Map Fullscreen</span></li>
-    		<li><img src="images/all.svg"><span>All Entrants</span></li>
-		    <li><img src="images/students-cap.svg"><span>Students</span></li>
-		    <li><img src="images/worker.svg"><span>Workers</span></li>
-		    <li><img src="images/family.svg"><span>Family</span></li>
-    		<li><img src="images/vacation.svg"><span>Others</span></li>
-    		<li><img src="images/slider.svg"><span>Controls the size of the Circles</span></li>
+    			  <li><img src="images/fullscreen.svg"><span>Make Map Fullscreen</span></li>
+    			  <li><img src="images/all.svg"><span>All Entrants</span></li>
+		    	  <li><img src="images/students-cap.svg"><span>Students</span></li>
+		   	  <li><img src="images/worker.svg"><span>Workers</span></li>
+		  	  <li><img src="images/family.svg"><span>Family</span></li>
+    			  <li><img src="images/vacation.svg"><span>Others</span></li>
+    			  <li><img src="images/slider.svg"><span>Controls the size of the Circles</span></li>
   			</ul>
 		  </div>
 	    </div>
