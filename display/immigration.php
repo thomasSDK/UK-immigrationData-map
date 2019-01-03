@@ -5,8 +5,8 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
- <head>
-	<title>Mapping UK Immigration</title>
+  
+  <title>Mapping UK Immigration</title>
   <meta name="description" content="A Geo-temporal mapping of the United Kingdom’s Home Office Immigration Statistics from the years 2004 to 2016">
   <meta name="author" content="Thomas Sean Dominic Kelly">
 
